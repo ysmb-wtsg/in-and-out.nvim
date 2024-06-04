@@ -1,0 +1,13 @@
+*in-and-out.txt*    in-and-out plugin for Neovim
+
+INTRODUCTION                                *in-and-out*
+
+in-and-out is a Neovim plugin designed to quickly navigate in and out of surrounding characters like quotes (`"`, `'`), parentheses (`(`, `)`), curly braces (`{`, `}`), and square brackets (`[`, `]`).
+
+USAGE
+
+In insert mode, press <C-CR> to move the cursor out of the paired characters.
+
+AUTHOR
+
+Author: ysmb-wtsg <telecaster1121@gmail.com>
