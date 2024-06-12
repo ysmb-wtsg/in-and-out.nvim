@@ -10,7 +10,7 @@
 
 ## Installation
 
-Using `lazy`:
+Using `lazy` or `packer`:
 
 ```lua
 {
@@ -18,7 +18,7 @@ Using `lazy`:
 	config = function()
 		vim.keymap.set("i", "<C-CR>", function()
 			require("in-and-out").in_and_out()
-		end)
+		end
 	end,
 }
 ```
