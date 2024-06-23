@@ -4,7 +4,7 @@
   <img src="https://github.com/ysmb-wtsg/in-and-out.nvim/assets/85178719/cdfa26ec-6302-4413-b586-781ece8e99c0" width="70%" height="400px" object-fit="cover">
 </p>
 
-`in-and-out` is a Neovim plugin designed to quickly navigate in and out of surrounding characters like quotes (`"`, `'`), parentheses (`(`, `)`), curly braces (`{`, `}`), and square brackets (`[`, `]`).
+`in-and-out` is a Neovim plugin designed to quickly navigate in and out of surrounding characters like quotes (`"`, `'`), parentheses (`(`, `)`), curly braces (`{`, `}`), square brackets (`[`, `]`), and backticks (<code>`</code>).
 
 ![demo](https://github.com/ysmb-wtsg/in-and-out.nvim/assets/85178719/9b641329-bd71-4931-8ad8-c1051641ccd2)
 
