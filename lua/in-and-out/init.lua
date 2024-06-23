@@ -18,7 +18,7 @@ local function escape_lua_pattern(s)
 	return (s:gsub(".", matches))
 end
 
-local targets = { '"', "'", "(", ")", "{", "}", "[", "]" }
+local targets = { '"', "'", "(", ")", "{", "}", "[", "]", "`" }
 
 function M.in_and_out()
 	local current_row, current_col = unpack(vim.api.nvim_win_get_cursor(0))
