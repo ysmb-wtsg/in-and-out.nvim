@@ -6,7 +6,7 @@
 
 `in-and-out` is a Neovim plugin designed to quickly navigate in and out of surrounding characters like quotes (`"`, `'`), parentheses (`(`, `)`), curly braces (`{`, `}`), square brackets (`[`, `]`), and backticks (<code>`</code>).
 
-![demo](https://github.com/ysmb-wtsg/in-and-out.nvim/assets/85178719/9b641329-bd71-4931-8ad8-c1051641ccd2)
+https://github.com/user-attachments/assets/f65897b9-057c-429f-a188-513dad509227
 
 ## Installation
 
